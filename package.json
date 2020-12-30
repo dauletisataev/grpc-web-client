@@ -1,0 +1,19 @@
+{
+  "name": "grpc-client-js",
+  "version": "1.0.0",
+  "description": "Testing client grpc fearures",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daulet Issatayev",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "^3.14.0",
+    "grpc-web": "^1.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  }
+}
